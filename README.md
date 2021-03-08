@@ -7,7 +7,7 @@
 <a href="https://bit.ly/3jPqXEB"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3jPqXEB"><img title="T-load" src="(https://user-images.githubusercontent.com/49580304/110320875-c9736580-7fc5-11eb-98ec-e78f3b767ba5.jpg"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="T-load" src="(https://user-images.githubusercontent.com/49580304/110321607-c75dd680-7fc6-11eb-9ad8-544ec3c073f7.jpg)"></a>
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
@@ -98,7 +98,7 @@ __UDATE SOON (NOT NECSESSARY)__ :
 <a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
-## BUY ME A COFFEE :
+## CONTRIBUTORS :
 <p> <<< THANKS TO RAJ FOR HELPING ME IN THIS PROJECT 😍😍 >>> <p>
   
 ## WARNING : 
