@@ -46,7 +46,7 @@ $fname = $n[mt_rand(0,count($n))];
 $imei=RandomNumber(15);
 $user=RandomNumber(21);
 
-$protect="9343930969";
+$protect="00000";
 
 if ($mo == $protect) {
     
