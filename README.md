@@ -73,7 +73,7 @@ __UDATE SOON (NOT NECSESSARY)__ :
 <br>
 <p align="center">
 <img width="49%" src="https://user-images.githubusercontent.com/49580304/110321497-99789200-7fc6-11eb-9ddb-cc357547513e.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/110321530-a5645400-7fc6-11eb-9ff5-a7ac68d0937b.jpg"/>
+<img width="49%" src="https://user-images.githubusercontent.com/49580304/110321530-a5645400-7fc6-11eb-9ff5-a7ac68d0937b.jpg"/>
 </p>
 
 ## WATCH VIDEO [Termux]
