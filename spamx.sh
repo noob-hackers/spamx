@@ -427,9 +427,9 @@ echo -e "\e[93m
         ╰━━━━━━━━━━━╯
 "
 killall -9 php >/dev/null 2>&1 
-#cd /data/data/com.termux/files/home/spamx/server/callnsms
-php -S localhost:8080 >/dev/null 2>&1 &
 cd /data/data/com.termux/files/home/spamx/server/callnsms
+php -S localhost:8080 >/dev/null 2>&1 &
+#cd /data/data/com.termux/files/home/spamx/server/callnsms
 curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
 sleep 1.0
 curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
