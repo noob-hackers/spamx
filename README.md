@@ -2,7 +2,7 @@
 <a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Tload-green.svg"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Spamx-green.svg"></a>
 <a href="https://bit.ly/3jPqXEB"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3jPqXEB"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -72,8 +72,8 @@ __UDATE SOON (NOT NECSESSARY)__ :
 
 <br>
 <p align="center">
-<img width="40%" src="https://user-images.githubusercontent.com/49580304/110321497-99789200-7fc6-11eb-9ddb-cc357547513e.jpg"/>
-<img width="40%" src="https://user-images.githubusercontent.com/49580304/110321530-a5645400-7fc6-11eb-9ff5-a7ac68d0937b.jpg"/>
+<img width="49%" src="https://user-images.githubusercontent.com/49580304/110321497-99789200-7fc6-11eb-9ddb-cc357547513e.jpg"/>
+<img width="46%" src="https://user-images.githubusercontent.com/49580304/110321530-a5645400-7fc6-11eb-9ff5-a7ac68d0937b.jpg"/>
 </p>
 
 ## WATCH VIDEO [Termux]
