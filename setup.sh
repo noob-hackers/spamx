@@ -26,4 +26,5 @@ echo -e "\e[34mALL THINGS ARE COMPLETED....[\e[92m✓\e[34m]\e[93m"
 center "STARTING SPAMX"
 am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
 cd $HOME/spamx
+rm setup.sh
 bash spamx.sh
