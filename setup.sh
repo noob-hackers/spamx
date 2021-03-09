@@ -20,6 +20,7 @@ pkg install python -y >/dev/null 2>&1
 pkg install python2 -y >/dev/null 2>&1
 pkg install php -y >/dev/null 2>&1
 pkg install git -y >/dev/null 2>&1
+pkg install pv -y >/dev/null 2>&1
 pkg install wget -y >/dev/null 2>&1
 pip install lolcat >/dev/null 2>&1
 echo -e "\e[34mALL THINGS ARE COMPLETED....[\e[92m✓\e[34m]\e[93m"
