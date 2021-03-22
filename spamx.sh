@@ -1,6 +1,8 @@
 #PUBLISHING WITHOUT CREDITS OR PERMISSION CAN LEAD YOU TO PAY FOR THAT
 #BY NOOB HACKERS (SUBSCRIBE US ON YOUTUBE)
 #####3#3#
+clear
+
 check(){
 if wget --spider https://raw.githubusercontent.com/noob-hackers/spamx/master/update.v1.1 2>/dev/null; then
 cd $HOME/spamx/server/updates
