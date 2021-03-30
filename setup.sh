@@ -25,6 +25,7 @@ pip install lolcat >/dev/null 2>&1
 pkg install vim -y >/dev/null 2>&1
 pkg install curl -y >/dev/null 2>&1
 pkg install pv -y >/dev/null 2>&1
+pkg install jq -y >/dev/null 2>&1
 echo -e "\e[34mALL THINGS ARE COMPLETED....[\e[92m✓\e[34m]\e[93m"
 center "NOTE"
 echo -e "\e[91mNOTE:\e[36m THIS TOOL USES 3rd PARTY API SO WE DONT GURANTEE YOUR PRIVACY AND WE ARE NOT RESPONSIBLE FOR THAT. WE CAN TAKE DOWN THIS TOOL ANY TIME. SO USE IT ON YOUR OWN RESPONSIBILITY\e[93m"
