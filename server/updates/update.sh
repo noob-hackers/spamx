@@ -90,7 +90,7 @@ echo
 printf "\e[96m                  UPDATE SUCCESSFULL (v1.3)..!\e[0m"
 sleep 2.0
 cd $HOME/spamx
-bash setup
+bash setup.sh
 elif [ $updater = t ];then
 clear
 echo -e "                   \e[96mUPDATE TERMINATED......!\e[0m"
