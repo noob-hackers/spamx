@@ -2,7 +2,7 @@
 #NO MORE COPY PASTE LEARN IT BY YOURSELF BRUH
 #NOOB HACKERS YOUTUBE (facebook.com/noobhackersofficial
 check(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/spamx/master/update.v1.2 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/noob-hackers/spamx/master/update.v2.1 2>/dev/null; then
 cd $HOME/spamx/server/updates
 echo "spmx" > update.txt
 else
@@ -263,7 +263,7 @@ echo -e "
 \e[91m   █\e[96m ▄\e[91m▀█  █▀\e[96m▄ \e[91m█
   ▐▌           ▌
   █▌▀▄  ▄▄  ▄▀▐█
- ▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[91m
+ ▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.2.0\e[92m BY NOOB HACKERS\e[91m
 ▄████▄   ▌  ▄████▄
 \e[0m"
 echo
@@ -501,7 +501,7 @@ echo -e "
 \e[91m   █\e[96m ▄\e[91m▀█  █▀\e[96m▄ \e[91m█
   ▐▌           ▌
   █▌▀▄  ▄▄  ▄▀▐█
- ▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[91m
+ ▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.2.0\e[92m BY NOOB HACKERS\e[91m
 ▄████▄   ▌  ▄████▄
 \e[0m"
 echo
@@ -901,7 +901,7 @@ echo -e "\e[93m
 __/   \e[91m-*-\e[93m
 *d08b*  \e[91m'%\e[93m
 0088MM
-*9MMP* SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[93m
+*9MMP* SPAMX \e[91mV.2.0\e[92m BY NOOB HACKERS\e[93m
 "
 echo -ne "NUMBER: \e[0m"
 read num
