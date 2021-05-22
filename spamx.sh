@@ -797,7 +797,7 @@ echo -e "\e[93m
 ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
 ╰━━━━━━━━━━━╯
 "
-curl -L -s "https://demo.briskey.in/wa-spamx/?whatsapp=$mobz&msg=$msgz&submit=Submit" 
+curl -L -s "https://demo.briskey.in/wa-spamx/?whatsapp=$mobz&msg=$msgz&submit=Submit" >/dev/null 2>&1
 echo textz > utis.txt
 value=$( grep -o "textz" utis.txt)
 if [[ $value = "textz" ]]
@@ -806,7 +806,7 @@ echo
 echo
 echo
 echo -e "        \e[34m ===============================================\e[34m"
-echo -e "        \e[34m   |  \e[34mSent \e[93m$msg \e[34mTo \e[91m$mob \e[34msuccessfully\e[34m  |"
+echo -e "        \e[34m   |  \e[34mSent \e[93m$msgz \e[34mTo \e[91m$mobz \e[34msuccessfully\e[34m  |"
 echo -e "        \e[34m ===============================================\e[34m"
 echo
 echo
@@ -878,6 +878,7 @@ chk=$(date +%A > datz.txt)
 dro=$(cat datz.txt)
 if [ "$dtz" == "$droz" ];
 then
+clear
 echo
 echo
 echo -e "        \e[34m ===============================================\e[34m"
