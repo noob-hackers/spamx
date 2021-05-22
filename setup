@@ -58,6 +58,7 @@ sleep 20.0
 echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
 center "[X]STARTING SPAMX[X]"
 am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
+cd $HOME/spamx
 rm setup
 cd $HOME/spamx
 bash spamx.sh
