@@ -508,7 +508,7 @@ echo
 echo -ne "\e[93mPROVIDE MESSAGE: "
 read msgz
 #######################GIMICCK######################################
-if [ "$msgz" = "fuck" ];
+if [[ "$msgz" =~ .*"fuck".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -517,7 +517,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "fuck you" ];
+elif [[ "$msgz" =~ .*"Fuck".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -526,7 +526,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "maderchod" ];
+elif [[ "$msgz" =~ .*"fuck you".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -535,7 +535,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "Maderchod" ];
+elif [[ "$msgz" =~ .*"maderchod".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -544,7 +544,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "bhosadike" ];
+elif [[ "$msgz" =~ .*"Maderchod".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -553,7 +553,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "bsdk" ];
+elif [[ "$msgz" =~ .*"Lawde".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -562,7 +562,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "mc" ];
+elif [[ "$msgz" =~ .*"Laude".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -571,7 +571,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "bc" ];
+elif [[ "$msgz" =~ .*"lawde".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -580,7 +580,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "Bc" ];
+elif [[ "$msgz" =~ .*"Bc".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -589,7 +589,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "chutiye" ];
+elif [[ "$msgz" =~ .*"bc".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -598,7 +598,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "Chutiye" ];
+elif [[ "$msgz" =~ .*"mc".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -607,7 +607,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "randi" ];
+elif [[ "$msgz" =~ .*"Mc".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -616,7 +616,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "Randwe" ];
+elif [[ "$msgz" =~ .*"bhosodike".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -625,7 +625,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "bitch" ];
+elif [[ "$msgz" =~ .*"BSDK".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -634,7 +634,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "Bitch" ];
+elif [[ "$msgz" =~ .*"gandu".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -643,7 +643,7 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "lawde" ];
+elif [[ "$msgz" =~ .*"Sule".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -652,7 +652,61 @@ echo -e "        \e[34m ===============================================\e[34m"
 echo
 sleep 4.0
 whatsmenu
-elif [ "$msgz" = "laude" ];
+elif [[ "$msgz" =~ .*"chuitya".* ]];
+then
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m          |  \e[93mNO \e[91mSUCH WORDS \e[93mALLOWED\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+sleep 4.0
+whatsmenu
+elif [[ "$msgz" =~ .*"chutiye".* ]];
+then
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m          |  \e[93mNO \e[91mSUCH WORDS \e[93mALLOWED\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+sleep 4.0
+whatsmenu
+elif [[ "$msgz" =~ .*"randi".* ]];
+then
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m          |  \e[93mNO \e[91mSUCH WORDS \e[93mALLOWED\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+sleep 4.0
+whatsmenu
+elif [[ "$msgz" =~ .*"behenchod".* ]];
+then
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m          |  \e[93mNO \e[91mSUCH WORDS \e[93mALLOWED\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+sleep 4.0
+whatsmenu
+elif [[ "$msgz" =~ .*"Behenchod".* ]];
+then
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m          |  \e[93mNO \e[91mSUCH WORDS \e[93mALLOWED\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+sleep 4.0
+whatsmenu
+elif [[ "$msgz" =~ .*"Bitch".* ]];
+then
+echo
+echo -e "        \e[34m ===============================================\e[34m"
+echo -e "        \e[34m          |  \e[93mNO \e[91mSUCH WORDS \e[93mALLOWED\e[34m  |"
+echo -e "        \e[34m ===============================================\e[34m"
+echo
+sleep 4.0
+whatsmenu
+elif [[ "$msgz" =~ .*"bitch".* ]];
 then
 echo
 echo -e "        \e[34m ===============================================\e[34m"
@@ -1030,7 +1084,7 @@ upt=$(uptime | sed 's/.*up \([^,]*\), .*/\1/')
 shl=$(ps -p $$ | tail -1 | awk '{print $NF}')
 egl=$(getprop ro.hardware.egl)
 hardw=$(getprop ro.hardware)
-modl=$(getprop ro.product.model)
+modl=$(getprop ro.product.model)[]
 brnd=$(getprop ro.product.brand)
 cpu=$(getprop ro.product.cpu.abi)
 date=$(date +%A-%B/%d/%Y)
