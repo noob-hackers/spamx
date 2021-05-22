@@ -797,9 +797,10 @@ echo -e "\e[93m
 ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
 ╰━━━━━━━━━━━╯
 "
-curl -L -s "https://demo.briskey.in/wa-spamx/?whatsapp=$mobz&msg=$msgz&submit=Submit" > utis.txt
-value=$( grep -o " " utis.txt)
-if [[ $value = "" ]]
+curl -L -s "https://demo.briskey.in/wa-spamx/?whatsapp=$mobz&msg=$msgz&submit=Submit" 
+echo textz > utis.txt
+value=$( grep -o "textz" utis.txt)
+if [[ $value = "textz" ]]
 then
 echo
 echo
