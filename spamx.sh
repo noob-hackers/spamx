@@ -840,8 +840,10 @@ touch -- "$name".txt
 cd /data/data/com.termux/files/home/spamx/server/whatz
 anonctz=$(find reminz*.txt | wc -l)
 if [[ $anonctz = "1" ]]; then
-echo "1" > cttz.txt
+echo "2" > cttz.txt
 elif [[ $anonctz = "2" ]]; then
+echo "1" > cttz.txt
+elif [[ $anonctz = "3" ]]; then
 echo "0" > cttz.txt
 anondotz
 else
