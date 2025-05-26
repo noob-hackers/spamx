@@ -52,7 +52,7 @@ echo -e "\e[91mNOTE:\e[36m DONT TRY TO DO BOMBING ON MY NUMBER IF YOU TRY THEN Y
 sleep 20.0
 echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
 center "[X]STARTING SPAMX[X]"
-am start -a android.intent.action.VIEW -d https://bitly.com/nbhytchannel
+am start -a android.intent.action.VIEW -d https://bit.ly/nbhytchannel
 cd $HOME/spamx
 rm setup
 cd $HOME/spamx
